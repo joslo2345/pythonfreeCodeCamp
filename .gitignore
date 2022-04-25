@@ -1,1 +1,3 @@
 arithmetic_formatter/venv
+arithmetic_formatter/__pycache__
+arithmetic_formatter/.pytest_cache
